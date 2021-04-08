@@ -135,53 +135,41 @@
   <data name="DoubleClick" xml:space="preserve">
     <value>Çift tıklayın</value>
   </data>
-  <data name="EventAdderTreeNodeName" xml:space="preserve">
-    <value>Ekle</value>
-  </data>
-  <data name="EventRemoverTreeNodeName" xml:space="preserve">
-    <value>kaldır</value>
-  </data>
   <data name="ExposedByTreeNode" xml:space="preserve">
-    <value>Tarafından gösterilen</value>
+    <value>Etkilendiren</value>
   </data>
   <data name="ExtensionMethodsTreeNode" xml:space="preserve">
     <value>Genişletme yöntemleri</value>
   </data>
   <data name="GoToReferenceCommand" xml:space="preserve">
-    <value>Refesansa Git</value>
+    <value>Referansı izle</value>
   </data>
   <data name="GoToReferenceInCodeCommand" xml:space="preserve">
-    <value>Metodda Referans Göster</value>
+    <value>Metod içerisinde Referansı Göster</value>
   </data>
   <data name="GoToReferenceInCodeNewTabCommand" xml:space="preserve">
-    <value>Methodda Referansı Göster(Yeni Sekme)</value>
+    <value>Method içerisinde Referansı Göster(Yeni _Sekme)</value>
   </data>
   <data name="GoToReferenceNewTabCommand" xml:space="preserve">
-    <value>Referansa Git(Yeni Sekme)</value>
+    <value>Referansa Git(Yeni _Sekme)</value>
   </data>
   <data name="HidesParent" xml:space="preserve">
     <value>gizle</value>
   </data>
   <data name="ImplementedByTreeNode" xml:space="preserve">
-    <value>Tarafından uygulanan</value>
+    <value>Uyarlayan</value>
   </data>
   <data name="InstantiatedByTreeNode" xml:space="preserve">
     <value>Tarafından örneği</value>
   </data>
   <data name="OverriddenByTreeNode" xml:space="preserve">
-    <value>Geçersiz kılınmış</value>
+    <value>Üzerine Yazan</value>
   </data>
   <data name="OverridesTreeNode" xml:space="preserve">
     <value>Geçersiz Kıl</value>
   </data>
   <data name="Plugin_ShortDescription" xml:space="preserve">
     <value>Derlemeleri analiz et</value>
-  </data>
-  <data name="PropertyGetterTreeNode" xml:space="preserve">
-    <value>get</value>
-  </data>
-  <data name="PropertySetterTreeNode" xml:space="preserve">
-    <value>set</value>
   </data>
   <data name="RaisedByTreeNode" xml:space="preserve">
     <value>Tarafından yetiştirildi</value>
@@ -209,6 +197,9 @@
   </data>
   <data name="ShowMetadataTokensCommand" xml:space="preserve">
     <value>Token'ları Göster</value>
+  </data>
+  <data name="SingleClickExpandNodes" xml:space="preserve">
+    <value>Tek tıklama düğümleri genişletir</value>
   </data>
   <data name="SyntaxHighlightCommand" xml:space="preserve">
     <value>Sözdizimi Renklendirme</value>
